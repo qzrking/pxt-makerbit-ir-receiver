@@ -20,11 +20,11 @@ const enum IrButton {
   Down = 0xa8,
   //% block=" "
   Unused_4 = -4,
-  //% block="*"
+  //% block="1"
   Number_1 = 0x68,
-  //% block="0"
+  //% block="2"
   Number_2 = 0x98,
-  //% block="#"
+  //% block="3"
   Number_3 = 0xb0,
   //% block="4"
   Number_4 = 0x30,
@@ -38,11 +38,11 @@ const enum IrButton {
   Number_8 = 0x38,
   //% block="9"
   Number_9 = 0x5a,
-  //% block="1"
+  //% block="*"
   Star = 0x42,
-  //% block="2"
+  //% block="0"
   Number_0 = 0x4a,
-  //% block="3"
+  //% block="#"
   Hash = 0x52,
 }
 
